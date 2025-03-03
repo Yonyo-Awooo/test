@@ -7,7 +7,7 @@ module.exports = {
     cookieSecret: '' // Cookie secret | charaters used store client data
 	},
   bot: {
-    name: '', // Bot Name
+    name: 'TheYonyo', // Bot Name
     token: '', // Bot token if showing Stats
     logo: '', //Bot Logo used in embeds and favicon
     description: '', //description of your bot used in embed and website
